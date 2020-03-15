@@ -1,0 +1,76 @@
+/* 03_home.css */
+/* 아래에 코드를 작성해 주세요. */
+
+
+.cover {
+ 
+  background-image: url("images/header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  position: relative;
+  top: 80px;
+  
+  
+}
+
+.cover-items {
+  color: white;
+  text-align: center;
+  margin: 0;
+
+}
+
+.cover-title {
+  margin: 0;
+
+}
+
+
+.cover-button {
+  border-radius: .3rem;
+  background-color: rgba(68, 107, 214, 0.849);
+  color: white;
+  border: 0;
+  height: 2rem;
+  width: 5rem;
+  margin-top: 50px;
+
+}
+
+.cover-button:hover {
+  background-color: blue;
+}
+
+.skills {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+
+.skill {
+  
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+
+  
+}
+
+.contents {
+    position: relative;
+
+    padding-top: 100px;
+}
+
+.contents-title {
+  text-align: center;
+  margin: 0;
+}
+
+

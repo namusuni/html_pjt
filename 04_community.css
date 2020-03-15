@@ -1,0 +1,40 @@
+/* 04_community.css */
+/* 아래에 코드를 작성해 주세요. */
+.main {
+  width: 720px;
+  margin: 0 auto;
+    
+}
+
+h1 {
+  text-align: center;
+}
+
+hr {
+  width: 100px;
+  background-color: yellow;
+  height: 3px;
+  border:0px;
+}
+
+
+.idanddate {
+    float: right
+}
+
+article {
+    border-bottom: 1px solid slategray;
+    padding-bottom: 3em;
+}
+.main {
+    position: relative;
+    top: 80px;
+    
+}
+
+#movie-title {
+    color: silver
+}
+#date {
+    color: slategray;
+}
